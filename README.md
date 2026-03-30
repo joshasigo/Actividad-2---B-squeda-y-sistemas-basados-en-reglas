@@ -1,6 +1,6 @@
 1. introducción
 
-El presente documento describe el desarrollo de un sistema inteligente basado en conocimiento capaz de determinar la ruta optima entre dos estaciones del sistema de transporte masivo TransMilenio en Bogotá, Colombia. El sistema fue implementado en lenguaje Python 3 y utiliza el algoritmo de búsqueda heurística A* (A estrella), combinado con una base de conocimiento representada mediante reglas lógicas del tipo hechos y conexiones.
+El presente readme describe el desarrollo de un sistema inteligente basado en conocimiento capaz de determinar la ruta optima entre dos estaciones del sistema de transporte masivo TransMilenio en Bogotá, Colombia. El sistema fue implementado en lenguaje Python 3 y utiliza el algoritmo de búsqueda heurística A* (A estrella), combinado con una base de conocimiento representada mediante reglas lógicas del tipo hechos y conexiones.
 Este trabajo corresponde a la Actividad 2 del curso de Inteligencia Artificial, y se enmarca en los conceptos desarrollados en los capítulos 2 (lógica y representación del conocimiento), 3 (Sistemas basados en reglas) y 9 (técnicas basadas en búsquedas heurísticas) del libro de referencia: Benitez, R. (2014). Inteligencia artificial avanzada. Editorial UOC.
 
 2. descripción del Sistema
